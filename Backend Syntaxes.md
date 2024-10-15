@@ -56,3 +56,13 @@ $hotdog->print()
 </body>
 </html>
 ```
+
+# installment of PHP:
+**Requirements:**
+1. PHP
+2. XAMPP
+3. Code Editor
+##### VSCode extentions (Optional):
+1. Live Server
+2. PHP intellisense
+3. PHP Server
