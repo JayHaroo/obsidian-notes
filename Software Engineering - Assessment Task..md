@@ -31,3 +31,13 @@
 
 **Remarks (Solution):**
 - By setting up serverless providers or using terminal applications to run a local server for the app.
+
+#### For activity:
+
+Online module (Image Captioning):
+**Preconditions:**
+- in online mode (Long press from screen in Offline mode screen)
+
+**Input Data:**
+- image frame captured from camera module
+
