@@ -41,3 +41,11 @@ Online module (Image Captioning):
 **Input Data:**
 - image frame captured from camera module
 
+**Expected Result:**
+- (if has internet connection) Generated Caption
+
+**Actual Result:**
+- Null or Error
+
+**Execution Status:**
+- Pass
